@@ -1,4 +1,4 @@
-# GCDAssignmentSubmission
+# Getting and Cleaning Data AssignmentSubmission
 repo containing files for submission - Coursera Data Science Specialisation: Getting and Cleaning Data, Week 4 Assignment.
 
 This Readme describes the analysis run_analysis.R, which performs the following on the UCI HAR dataset:
@@ -6,12 +6,12 @@ This Readme describes the analysis run_analysis.R, which performs the following 
 1) Sets the working directory, downloads the zipped data, unzips it.
 
 2) (Section 1): From the unzipped .txt files, reads in 6 files and merges them into one complete dataset: 
-  testing set subject data
-  testing set activity data
-  testing set outcome data
-  training set subject data
-  training set activity data
-  training set outcome data
+  testing set subject data,
+  testing set activity data,
+  testing set outcome data,
+  training set subject data,
+  training set activity data,
+  training set outcome data.
 
 3) (Section 2): Names all variables with descriptive names, specified in features.txt, and extracts the information on the mean and standard deviation, by keeping these features only. It extracts only the measurements that have both mean and s.d. explicitly: i.e. the measures that end in mean() and s.d(). Measures with a mean, but no standard deviation are excluded: i.e those that end in meanFreq() are excluded. 
 
