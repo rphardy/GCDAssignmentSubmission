@@ -23,4 +23,4 @@ See codebook, run_analysis.R and tidied_data.txt
 
 To read in tidied_data and store as a dataframe to check, copy, paste and update:
 
-check <- read.table("<INSERTYOURDIRECTORY>/tidied_data.txt",header=TRUE) 
+check <- read.table("INSERTYOURDIRECTORY/tidied_data.txt",header=TRUE) 
