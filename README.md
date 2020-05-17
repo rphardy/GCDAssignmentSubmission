@@ -1,5 +1,4 @@
 # Getting and Cleaning Data Assignment Submission
-repo containing files for submission - Coursera Data Science Specialisation: Getting and Cleaning Data, Week 4 Assignment.
 
 This Readme describes the analysis run_analysis.R, which performs the following on the UCI HAR dataset:
 
