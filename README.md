@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Assignment Submission
 
-This Readme describes the analysis run_analysis.R, which performs the following on the UCI Human Aactivity Recognition dataset:
+This Readme describes the analysis run_analysis.R, which performs the following on the UCI Human Activity Recognition dataset:
 
 1) Sets the working directory, downloads the zipped data, unzips it.
 
